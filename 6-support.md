@@ -2,8 +2,7 @@
 
 ### **Need Help?**
 - Visit our **GitHub Repository** for examples and issues tracking. 🛠️
-- Join our **community chat** on [Discord](https://discord.gg/echoai). 💬
-- Follow us on **X (formerly Twitter): [@EchoAI](https://x.com/EchoAI)** 🐦
+- Follow us on **X (formerly Twitter): [@echoai_sol](https://x.com/echoai_sol)** 🐦
 
 ### **Email Support:**
 📧 support@echoai.com
