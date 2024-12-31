@@ -4,7 +4,7 @@
 EchoAI is a **cutting-edge AI platform** that enables **voice-based authentication** powered by **blockchain technology**. It combines **advanced AI algorithms** with **immutable records**, ensuring **trust, security, and privacy** in identity verification. 🛡️
 
 ### **Watch 2024 hackaton intro video 🎥**
-<iframe src="https://streamable.com/e/739u9s" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+{% embed url="https://streamable.com/e/739u9s" %}
 
 ### **Key Features:**
 - 🎙️ **AI Voice Recognition** - Authenticate users with unique voiceprints.
